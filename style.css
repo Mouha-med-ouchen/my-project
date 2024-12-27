@@ -1,5 +1,5 @@
 body{
-    background-color: aquamarine;
+    background-color: rgb(133, 150, 144);
 }
 h3{
     font-size: xx-large;
@@ -7,4 +7,15 @@ h3{
 button{
     background-color: black;
     color: aliceblue;
+}
+p{
+    color: black;
+    border: solid 1px red;
+    border-radius: 5px;
+}
+h1{
+    display: block;
+    text-align: center;
+    background-color: #fff;
+    margin: 100px auto;
 }
